@@ -218,7 +218,7 @@ footer{
 }
 /* media quaries */
 /* for phone */
-@media only screen and (max-width: 688px){
+/* @media only screen and (max-width: 688px){
     nav{
         height: 150px;
         width: 100%;
@@ -236,6 +236,7 @@ footer{
     }
     nav .navbar .navigation .menu .menu-item a{
         font-size: 10px;
+        
     }
     .container{
         width: 100%;
@@ -261,7 +262,7 @@ footer{
     }
 }
 /* for tab */
-@media only screen and (min-width: 689px) and (max-width: 991px){
+/* @media only screen and (min-width: 689px) and (max-width: 991px){
     nav{
         height: 150px;
     }
@@ -287,4 +288,4 @@ footer{
     .course-container{
         height: auto;
     }
-}
+} */
